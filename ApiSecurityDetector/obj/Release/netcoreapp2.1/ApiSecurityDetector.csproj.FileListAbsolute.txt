@@ -1,0 +1,14 @@
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\bin\Release\netcoreapp2.1\ApiSecurityDetector.deps.json
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\bin\Release\netcoreapp2.1\ApiSecurityDetector.runtimeconfig.json
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\bin\Release\netcoreapp2.1\ApiSecurityDetector.runtimeconfig.dev.json
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\bin\Release\netcoreapp2.1\ApiSecurityDetector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\bin\Release\netcoreapp2.1\ApiSecurityDetector.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\obj\Release\netcoreapp2.1\ApiSecurityDetector.csproj.CoreCompileInputs.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\obj\Release\netcoreapp2.1\ApiSecurityDetector.RazorAssemblyInfo.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\obj\Release\netcoreapp2.1\ApiSecurityDetector.RazorAssemblyInfo.cs
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\obj\Release\netcoreapp2.1\ApiSecurityDetector.AssemblyInfoInputs.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\obj\Release\netcoreapp2.1\ApiSecurityDetector.AssemblyInfo.cs
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\obj\Release\netcoreapp2.1\ApiSecurityDetector.RazorTargetAssemblyInfo.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\obj\Release\netcoreapp2.1\ApiSecurityDetector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\obj\Release\netcoreapp2.1\ApiSecurityDetector.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiSecurityDetector\ApiSecurityDetector\obj\Release\netcoreapp2.1\ApiSecurityDetector.csprojAssemblyReference.cache
